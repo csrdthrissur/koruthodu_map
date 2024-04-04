@@ -1,0 +1,1 @@
+var json_Motorshed_18 = {"type":"FeatureCollection","name":"Motorshed_18","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Id":0.0,"Road":"School Junction Chennapara Road","Ward":3.0,"Name":"Motorshed"},"geometry":{"type":"Point","coordinates":[76.969572368742973,9.501142655898498]}}]}
